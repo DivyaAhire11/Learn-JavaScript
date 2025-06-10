@@ -1,0 +1,34 @@
+Today ,We learn About Anchor Tag.
+who to move on next page
+
+variables AND DataTypes
+
+1) 
+   -> age=20
+   -> price=99.99
+   -> radius=14
+   -> x=null
+   -> y=undefined
+   -> isFollow=false
+   -> Name="Divya"
+   -> Name=25      //dynamic DataTypes
+* VALID *                    * INVALID *
+Name="Divya Ahire"         123Name="Divya Ahire"
+_Name="Divya Ahire"        full Name="Divya Ahire"
+$Name="Divya Ahire"
+
+
+2)
+  let= variable cannot be re-declared but can be updated
+      A Block Scope Variable
+      eg:
+          let a=5
+  const=variable cannot be re-declared or updated
+        A Block Scope Variable
+      eg:
+          const PI=3.14
+
+  var=Variable can be re-declared and updated
+      A Global Scope variable
+      eg:
+         var age =30
