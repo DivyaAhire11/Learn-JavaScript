@@ -1,0 +1,44 @@
+JavaScript
+    1)Primitive DataTypes
+    2)Non-Primitive DataTypes
+
+    Primitive
+    1. Number(Digit - integer or float)
+       eg. 42,3,14,34.78,99.999,-46,-562
+
+    2. Strings(Sequence of charecter)
+       eg. "Hello"
+           "JavaScript"
+
+    3. Booleans(logical True,False)
+       eg. true or false
+
+    4. null(absence of value- empty)
+       eg.let x = null;
+       
+    5. Undefined(variable declared but not assigned - Not defined)
+      eg.let x;
+       (x is undefined)
+
+    6. BigInt(large integer)
+      eg. 349874569479832659845364799823n
+
+    Non-Primitive DataTypes
+  
+    1. object(key - value pair)
+      eg. let obj={
+        name:"divya",   //name = key   "divya" = value
+        age:20
+      }
+
+    2. array(Ordered Collection)
+      eg. let arr=[ 1 , -4 , "hello" , 78 , "hii" ]
+
+    3. functions(reusable block of code)
+     eg. function greet(){      // function defination
+        console.log("Good Mornings");
+     }
+     greet(); //function call
+
+    4. Date(build-in object for date and time)
+      eg new Date();
