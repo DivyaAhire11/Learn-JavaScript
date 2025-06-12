@@ -1,0 +1,69 @@
+TODAY LEARN ABOUT CONSOLE METHODS
+
+1] console.log()  :- use of log the output in console
+                   eg.  console.log("Hello World!");
+                        console.log("value of x is",x);
+
+2] console.info()  :- logs informational messages(same as console.log() in most browsers).
+                   eg.  console.log("This is an info message");
+                        
+3] console.warn()  :- display warnings in the console,often with a yellow icon
+                   eg.  console.log("this is a warnings");
+
+4] console.error()  :- display error messages in red, often used to log actual errors
+                   eg.  console.log("Something went wrong!");
+                        console.log("this is an error");
+
+5] console.table()  :- display tabular data (array or object) in a table format
+                   eg.  const user = [{name:"rina",age=25},{name:"rina",age=25}]
+                        console.table(user);
+
+6] console.clear() :- clear the console 
+                   eg. console.clear()
+
+
+
+
+OPERATOES IN JAVASCRIPT
+  use to perform some operation on data
+
+1]ARITHMETIC OPERATOR
+
+ addition(+)  :- 3+5 => 8
+ subtraction(-)  :- 23-9 => 14
+ multiplication(*) :- 4*5 => 20
+ division(/)  :- 20/5 => 4
+ modulus(%)   :- 43%10 => 3
+ exponentiation(**)   :- 5**2 => 25 
+ increment(++)   :- x++   or ++x 
+ decrement(--)   :- x--  or  --x
+
+ 2]ASSIGNMENT OPERATOR
+
+ assign(=)
+ add and assign (+=)
+ subtract and assign (-=)
+ multiply and assign ( *= )
+ divide and assign (/=)
+ modulus and assign ( %= )
+ exponent and assign ( **= )
+
+ 3]COMPARISON OPERATOR
+
+ equal to(loose) (==)
+ equal to(strict) (===)
+ not equal(loose) (!=)
+ not equal(strict) (!==)
+ greater than(>)
+ less than(<)
+ greater than or equal to(>=)
+ less than or equal to(<=)
+
+ 4]LOGICAL OPERATOR
+
+ logical AND(&&)
+ logical OR(||)
+ logical NOT(!)
+
+ 
+
