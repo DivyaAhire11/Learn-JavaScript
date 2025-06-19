@@ -1,0 +1,41 @@
+Identifires : an Identifier is the name you gave to variables,Functions,classes,or any user-defined elements.
+eg:
+    let name = "Divya" //name is an identifier
+    function greet(){ }  // greet is an identifier
+    const PI = 3.14 // PI is an identifier
+
+reserve keyword : A reserve keyword is a word that has a special meaning in JS. these words are part of the language syntax, so you cannot use them as variable ,names,function names,or identifiers.
+eg:
+    let
+    const
+    var
+    if 
+    else 
+    function 
+    return 
+    class 
+    while
+    for
+    true/false
+    null
+    undefined
+    break
+    continue
+    new
+    this
+    try/catch/finally
+
+we learn about document keyword 
+   document object is a global object
+
+when we console.log() document we get hole html page
+
+when we write document.title we get our page title
+we also change title using 
+   document.title = "random Name"
+
+document.body gives all
+<body>
+</body>
+
+document.write("Hello world") added in last of body
