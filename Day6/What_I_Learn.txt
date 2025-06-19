@@ -1,0 +1,16 @@
+  **TERNARY OPERATOR**
+
+  BASIC SYNTAX
+  
+  condition ? expressionIfTrue : expressionIffalse;
+  
+  Condition =  A boolean expression (true or False)
+
+  expressionIfTrue = runs if the condition is true
+
+  expressionIffalse = runs if the condition False
+
+  -> ternary operator is a shortHand way to write an if-else condition in javascript.
+  -> it's called "ternary" because it takes three parts
+
+  
