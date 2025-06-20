@@ -1,0 +1,22 @@
+alert("you are hacked");
+
+   : show a message
+   : the alert box stops code execution until the user clicks "okk"
+   : it has no return value(just show message)
+   : mostly used for testing or learning.
+
+confirm("Are you sure?");
+
+   : Ask a YES/NO (OK / Cancle) question
+   : return true if clicks "ok"
+   : return false if clicks "Cancle"
+   : confirm your choice
+
+prompt("Enter Your Name","Guest");
+
+   : ask for text input
+   : return user input as a string if OK is pressed
+   : return null if Cancle is pressed
+
+
+
