@@ -1,0 +1,42 @@
+  IF STATEMENT
+      :- The if statement in JavaScript is used to execute a block of code only if a specified condition is true
+      :-    if (condition) {
+                // code to be executed if the condition is true
+                 }
+      :- condition: A boolean expression (returns true or false)
+
+      :- If the condition is true, the code inside the {} runs
+
+      :- If the condition is false, the code is skipped
+  
+  IF - ELSE STATEMENTS
+
+     :-  An if-else statement allows you to execute different blocks of code based on a condition is true or false.
+     
+     :-  SYNTAX =
+         if (condition) {
+         // Code runs if condition is true
+         } else {
+         // Code runs if condition is false
+         }
+
+
+IF - ELSE IF - ELSE 
+
+   :- The if - else if - else statement in JavaScript allows your code to choose one of many blocks to execute based on different conditions.
+
+   :-   if (condition1) {
+              // Executes if condition1 is true
+        } else if (condition2) {
+              // Executes if condition2 is true and condition1 is false
+        } else {
+             // Executes if none of the above conditions are true
+        }
+    :- Use else if for multiple exclusive checks.
+
+    :- Only the first matching condition is executed.
+
+    :- The else block is optional and acts as a default fallback.
+ 
+
+
