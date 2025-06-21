@@ -1,0 +1,23 @@
+switch : switch statement is use to execute different block of code based on value of expression.
+
+Syntax :
+
+        switch(expression){
+            case value1 :
+                         //code
+                         break;
+            case value2 :
+                         //code
+                         break;
+            case value3 :
+                         //code
+                         break;
+            default : 
+                      //code
+
+        }
+
+: expression is evaluate once
+: Value is matched against each case
+: break exits the switch block
+: default rens if no match is found
