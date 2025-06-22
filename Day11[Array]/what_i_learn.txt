@@ -1,0 +1,39 @@
+Array = An array is a special variable used to store multiple values in a single variable. 
+eg:
+     let fruits = ["apple", "banana", "cherry"];
+
+     console.log(fruits[0]);
+         // "apple"
+
+     console.log(fruits[1]);
+       // "banana"
+
+Index in Array = the index in an array refers to the position of an element within that array.
+     :-  Indexing starts at 0.
+     :- The first element is at index 0.
+     :- The second element is at index 1, and so on.
+
+     eg:
+          let colors = ["red", "green", "blue"];
+           red at 0 index
+           green at 1 index
+           blue at 2 index
+
+ Array.length = array.length is a property that returns the number of elements in an array.
+
+    let fruits = ["apple", "banana", "cherry"];
+
+    console.log(fruits.length); // Output: 3
+
+
+           ARRAY METHODS
+
+  1) Array.push()    :  Adds item to the END of the array 
+
+  2) Array.unshift() : Adds item to the BEGINNING of the array     
+   
+  3) Array.pop()    :   Removes the LAST item from the array 
+
+  4) Array.shift()   : Removes the FIRST item 
+
+  5) Array.length    : Returns the number of items in the array 
