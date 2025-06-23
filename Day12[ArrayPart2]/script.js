@@ -1,13 +1,45 @@
+    //INCLUDES
 
+// let fruits = ["Banana","Apple","Mango"];
+// console.log(fruits.includes("Mango"));  //true
+// console.log(fruits.includes("grapes"));  //false
+// console.log(fruits.includes("Banana")); //true
+
+// let arr = [{
+//     name : "ritu",
+//     roll_no : 65
+// }]
+//  console.log(arr.includes({name : "ritu"}));  //false
+ //because it's a different reference
+
+
+      //INDEXOF
+
+//  let color = ["red","yellow","pink","blue"];
+//      let res= color.indexOf("pink");
+//      console.log(res); //2
+
+
+     //REVERSE
+
+//   console.log("Original Array : ",color);
+//   console.log("Reverse Array : ",color.reverse());
+     
+     
+    //SORT 
+
+    //  console.log("Sorted Array : ",color.sort());
+    
 // let arr= [1,2,3,4,5];
 // let abc = ['a','b','c','d','e']
 
-// arr.push(6)
-// arr.unshift(0)
+   
+// arr.push(6) //last add
+//  arr.unshift(0)  //first add
 
-// arr.pop()
+// arr.pop()  //last ele remove
 
-// arr.shift()
+// arr.shift()  //first ele remove
 
 // arr.reverse()
 // abc.reverse()
@@ -23,18 +55,19 @@
 
 // let colors = ["red", "green", "blue", "yellow", "orange", "purple"];
 
-// console.log(colors.indexOf("pink"));
+// console.log(colors.indexOf("pink")); //not include pink so return -1
 
 
-// let cities = ["pune","satara","mumbai","dellhi"];
+// let cities = ["pune","satara","mumbai","delhi"];
+// console.log("Cities : ",cities);
 
-// // console.log(cities.reverse());
+// console.log("City reverse : ",cities.reverse());
 
-// // console.log(cities.sort())
+// console.log("City sort : ",cities.sort())
 
-// console.log(cities.includes("pune"))
+// console.log("City include pune? : ",cities.includes("pune"))
 
-// console.log(cities.indexOf("morve"))
+// console.log("City indexof delhi : ",cities.indexOf("delhi"))
 
-// console.log(cities.toString());
+// console.log("City tostring : ",cities.toString());
 
