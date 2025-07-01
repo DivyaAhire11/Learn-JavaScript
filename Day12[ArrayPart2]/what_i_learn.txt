@@ -31,9 +31,13 @@
   5)slice()
      Copy part of array
      do not change original array
+     arr.slice(start,end)  end is not include
 
   6)splice()
      add/remove at any position
+     modifies original array
+     arr.splice(startIndex , deleteCount)  - remove item
+     arr.splice(startIndex , deleteCount , item1 , item2 .....) - add items
 
   **Key Points Must be Imp to Remember**
 

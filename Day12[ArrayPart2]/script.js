@@ -33,7 +33,16 @@
 // let arr= [1,2,3,4,5];
 // let abc = ['a','b','c','d','e']
 
-   
+  // SLICE
+  let fruits = ["Banana","Apple","Mango","grapes","pineapple"];
+  console.log(fruits.slice(2 ,4 ));  //["Mango","grapes"]
+  console.log(fruits);  // original array
+
+  //SPLICE
+
+  console.log(fruits.splice(1, 3)); 
+   console.log(fruits);  // Change Original Array 
+
 // arr.push(6) //last add
 //  arr.unshift(0)  //first add
 
