@@ -21,8 +21,25 @@
 
   3) reverse():
 
-    This method reverses the order of the elements in an array in place. This means it modifies the original array.
+    This method reverses the order of the elements in an array in place.
+     This means it modifies the original array.
   
   4)sort();
-  This method sorts the elements of an array in place. By default, it sorts elements as strings in alphabetical (ascending) order.
-  
+  This method sorts the elements of an array in place.
+   By default, it sorts elements as strings in alphabetical (ascending) order.
+   
+  5)slice()
+     Copy part of array
+     do not change original array
+
+  6)splice()
+     add/remove at any position
+
+  **Key Points Must be Imp to Remember**
+
+   .  No need to define size when creating an array
+   .  we can add or remove element anytime
+   .  first element at zero index
+   .  last element at [ arr.length - 1 ]
+   .  JS array can store any type of data together eg: number ,strings,function,object,boolean etc
+   .  array is a special kind of object

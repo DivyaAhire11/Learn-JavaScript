@@ -1,14 +1,14 @@
-// const person = {
-//   name: "Alice",
-//   age: 30,
-//   greet: function() {
-//     console.log("Hello!");
-//   }
-// };
-//  console.log(person.greet);
-//  console.log(person.age);
-//  console.log(person.name);
-
+const person = {
+  name: "anita",
+  age: 30,
+  greetHello: function() {
+    console.log("Hello!");
+  }
+};
+ console.log(person.greetHello);
+ console.log(person.age);
+ console.log(person.name);
+ 
 // const car = {
 //   make: "Toyota",
 //   model: "Camry",
