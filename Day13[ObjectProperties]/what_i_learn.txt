@@ -1,0 +1,11 @@
+   OBJECT PROPERTIES
+
+object is a key-value pair format
+
+object.key(obj)
+
+object.value(obj)
+
+add new key:value in object
+
+delete 
