@@ -1,11 +1,35 @@
    OBJECT PROPERTIES
 
 object is a key-value pair format
+   
+   let Mobile ={
+    name : "OPPO",
+    price : 13000,
+    color : "purple"
+}
 
-object.key(obj)
+Accessing Property
+   Mobile.name  --> using Dot
+   Mobile["name"]  --> using bracket
 
-object.value(obj)
+Adding New Property
+  Mobile.isHaveCharger=false;
+  Mobile.is5G = true
+  Mobile.camera = "HD"
 
+Modify 
+
+Mobile.name="Sumsung"
+
+Delete 
+delete Mobile.is5G
+
+Get All keys
+object.keys(Mobile)
+
+Get all Values
+object.values(Mobile)
+
+Get all entries
 add new key:value in object
 
-delete 
