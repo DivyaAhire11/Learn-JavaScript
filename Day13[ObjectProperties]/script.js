@@ -1,13 +1,13 @@
 
 let person = {
-    name : "Naman",
-    age : 17,
-    isStudent : true
+    name: "Naman",
+    age: 17,
+    isStudent: true
 }
 
 // console.log(person);
 // console.log(person["age"]);
- 
+
 
 //ADD NEW KEW:VALUE
 
@@ -38,7 +38,7 @@ let person = {
 // }else{
 //     console.log("not presnt Sorry");
 // }
- 
+
 
 // DISPLAY ALL KEYS
 
@@ -54,13 +54,13 @@ let person = {
 // console.log(Object.entries(person));
 
 
-let Mobile ={
-    name : "OPPO",
-    price : 13000,
-    color : "purple"
+let Mobile = {
+    name: "OPPO",
+    price: 13000,
+    color: "purple"
 }
 
-Mobile.isHaveCharger=false;  // add 
+Mobile.isHaveCharger = false;  // add 
 console.log(Mobile)
 
 let ObjectValues = Object.values(Mobile);
@@ -68,7 +68,7 @@ let ObjectValues = Object.values(Mobile);
 
 Mobile.brand = "OPPO"
 Mobile.is5G = true
- 
+
 delete Mobile.brand;
 
 
