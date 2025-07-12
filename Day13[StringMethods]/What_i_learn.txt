@@ -1,0 +1,19 @@
+
+
+     **STRING METHODS**
+
+     1) arr.toLowerCase();
+     2) arr.toUpperCase();
+     3) arr.trim();
+     4) arr.trimStart();
+     5) arr.trimEnd();
+     6) arr.replace(old, new);
+     7) arr.split(" ")
+         - arr.split("")[0]
+         - arr.split(" ")[1]
+         - arr.split(" ")[0]
+     8) str.charAt(0)
+     9)  str.concat("Divya");
+     10) str.includes("Java");
+     11) str.indexOf("S")
+    
