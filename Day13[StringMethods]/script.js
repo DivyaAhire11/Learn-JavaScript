@@ -34,10 +34,10 @@ let greet = "Hello! Good Morning , Have a nice Day Today"
 // console.log("hii".concat("Divya"));
 // console.log("hello" + "Ritu")
 
-console.log("JavaScript".includes("Java"))   // return True
-console.log("JavaScript".includes("hey"))    //return False
+// console.log("JavaScript".includes("Java"))   // return True
+// console.log("JavaScript".includes("hey"))    //return False
 
-console.log("JavaScript".indexOf("S"))    //return 4
+// console.log("JavaScript".indexOf("S"))    //return 4
 
 console.log("Hello Divya".replace("Divya", "Ritu"))  //Hello Ritu  
 

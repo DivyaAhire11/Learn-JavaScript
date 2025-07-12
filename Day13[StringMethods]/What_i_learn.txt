@@ -2,18 +2,47 @@
 
      **STRING METHODS**
 
-     1) arr.toLowerCase();
-     2) arr.toUpperCase();
-     3) arr.trim();
-     4) arr.trimStart();
-     5) arr.trimEnd();
-     6) arr.replace(old, new);
-     7) arr.split(" ")
+     1) str.toLowerCase();
+        -> covert string into lowercase
+
+     2) str.toUpperCase();
+       -> covert string into uppercase
+
+     3) str.trim();
+       -> remove whitespace from both ends of the string
+
+
+     4) str.trimStart();
+          -> remove whitespace from Start of the string
+
+
+     5) str.trimEnd();
+        -> remove whitespace from end of the string
+
+     6) str.replace(old, new);
+        -> replace the first match substring with another string
+
+     7) str.split(" ") 
          - arr.split("")[0]
          - arr.split(" ")[1]
          - arr.split(" ")[0]
-     8) str.charAt(0)
-     9)  str.concat("Divya");
+
+         -> splite a string into an array usin a separator
+
+     8) str.charAt(index);
+         
+          -> return charecter at specific index
+
+
+     9)  str.concat(str1,str2,..);
+         
+          -> combine one or more strings into new strings
+          -> return new string
+
      10) str.includes("Java");
+          -> check if the string contain the value
+
      11) str.indexOf("S")
+          -> return the first index of string
+
     
