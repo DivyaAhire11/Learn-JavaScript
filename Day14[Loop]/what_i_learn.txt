@@ -1,0 +1,18 @@
+
+
+   ** Loops **
+
+1] while loop : It is used to execute a block of code as long as a specified condition is true.
+
+while (condition) {
+     // code block to be executed
+}
+
+    Key Points:
+       1] Condition Checked First: The loop runs only if the condition is true at the beginning.
+
+       2] Repeats Indefinitely : If the condition never becomes false, it leads to an infinite loop.
+
+       3] Be Sure to Update Loop Variable: Usually, something inside the loop changes the condition.
+
+       4] Can be Used When the Number of Iterations is Unknown
