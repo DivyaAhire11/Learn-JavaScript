@@ -26,3 +26,18 @@ let age = 0;
 while (age < 1 || age > 120) {
     age = parseInt(prompt("Enter valid age:"));
 }
+
+
+let str = "JavaScript";
+let idex = 0;
+while (idx < str.length) {
+  console.log(str[idx]);
+  idx++;
+}
+
+
+let val = 1;
+while (val <= 1024) {
+  console.log(val);
+  val *= 2;
+}
