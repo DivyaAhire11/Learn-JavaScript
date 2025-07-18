@@ -1,0 +1,19 @@
+  **for loop**
+
+    A for loop is a control flow statement used to repeat a block of code a specific number of times. 
+
+SYNTAX -  
+  for (initialization; condition; update) {
+     // code to run in each loop iteration
+   }
+
+
+  initialization = initialised varialble (e.g., let i = 0;)
+  condition  =	Evaluated before each iteration. If true, the loop continues
+  update =	Changes the loop control variable after each iteration (e.g., i++)
+
+
+
+ When to Use a for Loop
+ 
+     When the number of iterations is known or count-based
