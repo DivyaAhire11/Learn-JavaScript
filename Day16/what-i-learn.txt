@@ -1,0 +1,10 @@
+
+    FOR...OF 
+
+The for...of loop iterates over the values of any iterable 
+
+
+const arr = ['a', 'b', 'c'];
+for (const x of arr) {
+  console.log(x);
+}

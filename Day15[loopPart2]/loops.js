@@ -19,8 +19,8 @@ console.log("total vowels is : ", count);
 
 
 // Use a for loop to reverse the characters in a string
-let Name = "Manas"
-for (let x = Name.length; x >= 0; x--) {
-    console.log(Name[x]);
-}
+// let Name = "Manas"
+// for (let x = Name.length; x >= 0; x--) {
+//     console.log(Name[x]);
+// }
 
